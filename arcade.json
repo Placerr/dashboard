@@ -19,10 +19,12 @@
 		"NinePatch",
 		"Rex_FirebaseAPIV3",
 		"Rex_Firebase_Authentication",
+		"Rex_Firebase_SimpleMessage",
 		"Sprite",
 		"Text",
 		"TextBox",
-		"WebStorage"
+		"WebStorage",
+		"sirg_notifications"
 	],
 	"used-behaviors": [
 		"Anchor"
