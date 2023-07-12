@@ -1,0 +1,30 @@
+﻿{
+	"name": "Placer Dashboard",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Browser",
+		"Button",
+		"Function",
+		"LocalStorage",
+		"NinePatch",
+		"Rex_FirebaseAPIV3",
+		"Rex_Firebase_Authentication",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"WebStorage"
+	],
+	"used-behaviors": [
+		"Anchor"
+	]
+}
